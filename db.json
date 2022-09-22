@@ -8,7 +8,7 @@
       "bed_type": "Single",
       "no_of_persons":"4",
       "capacity":"5",
-      "cost":"700",
+      "cost":700,
       "booked":false
     },
     {
@@ -19,7 +19,7 @@
       "bed_type": "Double",
       "no_of_persons":"3",
       "capacity":"3",
-      "cost":"500",
+      "cost":500,
       "booked":false
     },
     {
@@ -30,7 +30,7 @@
       "bed_type": "Double",
       "no_of_persons":"2",
       "capacity":"2",
-      "cost":"1000",
+      "cost":1000,
       "booked":false
     }
   ]
