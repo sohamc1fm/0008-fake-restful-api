@@ -1,14 +1,27 @@
 {
   "posts": [
     {
-      "id": 1,
-      "title": "Hello World",
-      "body": "Quia et suscipit\nsuscipit recusandae consequuntur expedita et cum\nreprehenderit molestiae ut ut quas totam\nnostrum rerum est autem sunt rem eveniet architecto"
+        "id": 1,
+       "category": "family",
+       "image_url": "https://promos.makemytrip.com/altacco_luxe/imgs/luxe_villa.jpg",
+       "type_of_room": "AC",
+      "bed_type": "single",
+      "no_of_persons":"5",
+		"capacity":"7",
+		"cost":"500",
+		"booked":false,
+   
     },
     {
       "id": 2,
-      "title": "Eum Et Est Occaecati",
-      "body": "Recusandae consequuntur expedita et cum\nreprehenderit ut quas totam\nautem sunt rem eveniet architecto"
+       "category": "family",
+       "image_url": "https://promos.makemytrip.com/altacco_luxe/imgs/luxe_villa.jpg",
+       "type_of_room": "NON AC",
+      "bed_type": "single",
+      "no_of_persons":"3",
+		"capacity":"5",
+		"cost":"250",
+		"booked":false,
     }
   ]
 }
