@@ -1,37 +1,42 @@
 {
-  "Data": [
-    {
-      "id":1,
-      "category": "family",
-      "image_url": "https://promos.makemytrip.com/altacco_luxe/imgs/luxe_villa.jpg",
-      "type_of_room": "AC",
-      "bed_type": "Single",
-      "no_of_persons":"4",
-      "capacity":"5",
-      "cost":700,
-      "booked":false
-    },
-    {
-      "id":2,
-      "category": "deluxe",
-      "image_url": "https://promos.makemytrip.com/altacco_luxe/imgs/luxe_villa.jpg",
-      "type_of_room": "NONAC",
-      "bed_type": "Double",
-      "no_of_persons":"3",
-      "capacity":"3",
-      "cost":500,
-      "booked":false
-    },
-    {
-      "id":3,
-      "category": "family",
-      "image_url": "https://promos.makemytrip.com/altacco_luxe/imgs/luxe_villa.jpg",
-      "type_of_room": "AC",
-      "bed_type": "Double",
-      "no_of_persons":"2",
-      "capacity":"2",
-      "cost":1000,
-      "booked":false
+    "dashboardData" : {
+        "total" : {
+            "activeList" : [
+                "abcd",
+                "abcd",
+                "abcd"
+
+            ],
+            "inactiveList" : [
+                "xzwe",
+                "xzwe",
+                "xzwe"
+
+            ]
+        },
+        "packages" : [
+            {
+                "name" : "package 1",
+                "activeList" : [
+                    "abcd"
+                ],
+                "inactiveList" : [
+                    "xzwe",
+                    "xzwe"
+                ]
+            },
+            {
+                "name" : "package 2",
+                "activeList" : [
+                    "abcd",
+                    "abcd"
+
+                ],
+                "inactiveList" : [
+                    "xzwe"
+
+                ]
+            }
+        ]
     }
-  ]
 }
